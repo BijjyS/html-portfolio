@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Ranking Project</title>
+</head>
+<body>
+    <h1>The Best Movie Acoording To Bijjy</h1>
+
+    <h2>My Two Best Movies of all Time</h2>
+    <hr>
+    
+        <h3>Saudagar</h3>
+       <p>I Love the story & Songs</p>
+       <h3>Mughal-E-Azam</h3>
+       <p>I love Picturisation & Romantic Music & Songs</p>
+    
+</body>
+</html>
